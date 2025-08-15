@@ -1,0 +1,10 @@
+2025-08-08 13:40:19 INFO  AddToCart:21 - The user navigates to url
+2025-08-08 13:40:19 INFO  AddToCart:27 - Accepted Cookies
+2025-08-08 13:40:23 INFO  AddToCart:34 - clicked All Dulux
+2025-08-08 13:40:33 INFO  AddToCart:42 - clicked Color Tester
+2025-08-08 13:40:36 INFO  AddToCart:50 - clicked Color of Product
+2025-08-08 13:40:41 INFO  AddToCart:56 - Added Quantity
+2025-08-08 13:40:41 INFO  AddToCart:62 - Added To Cart
+2025-08-08 13:40:46 INFO  AddToCart:69 - Proceed To Checkout
+2025-08-08 13:41:16 INFO  AddToCart:75 - Order Summary is displayed
+2025-08-08 13:41:16 INFO  AddToCart:81 - Screenshot taken
